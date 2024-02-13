@@ -29,7 +29,7 @@
 
 # **Code Review**
 
-[Code Review Youtube Link](https://youtu.be/6cdXHpRNkXQ)
+[Code Review](https://youtu.be/6cdXHpRNkXQ)
 
 ## Artifact Enhancement Links:
 

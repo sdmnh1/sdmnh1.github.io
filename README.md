@@ -31,6 +31,6 @@
 
 [Code Review Youtube Link](https://youtu.be/6cdXHpRNkXQ)
 
-### Artifact Enhancement Links:
+## Artifact Enhancement Links:
 
-#### [Software Engineering and Development](https://github.com/sdmnh1/Enhancement-One)
+[Software Engineering and Development](https://github.com/sdmnh1/Enhancement-One)

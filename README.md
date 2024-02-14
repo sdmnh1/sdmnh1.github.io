@@ -2,13 +2,7 @@
   <img src="profile.jpg" height=200 width=200>
 </center>
 
-# CS-499 ePortfolio
-
-## **Introduction**
-   Hello my name is Maria Herring, and I started attending SNHU's computer science about two years ago. 
-   This gitHub pages account was created to provide an electronic portfolio of my 
-   final project for CS-499 to complete my Bachelor's degree in computer science.  
-   
+  
 
 # **Enhancement One: Software Engineering and Development**
   The artifact I chose to enhance for Software Development and Engineering category is a banking application. The application is a calculator that generates an investment 

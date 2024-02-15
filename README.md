@@ -1,10 +1,10 @@
 
 
-# **Code Review:**
+## **Code Review**
 
 [Code Review](https://youtu.be/6cdXHpRNkXQ)
 
-# **Enhancement One: Software Engineering and Development**
+## **Enhancement One: Software Engineering and Development**
   The artifact I chose to enhance for Software Development and Engineering category is a banking application. The application is a calculator that generates an investment 
   report based on user input. The artifact was developed in the C++ programming language. Visual Studio Integrated Development Environment (IDE) was the tool used to develop 
   the application. The application, called Airgead Banking App, was the final project of CS-210 (Programming Languages), which was completed in Winter 2022. 

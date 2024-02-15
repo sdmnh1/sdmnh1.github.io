@@ -39,7 +39,7 @@ expose potential vulnerabilities, mitigate design flaws, and ensure privacy and 
 
 View the artifact enhancement: [Software Design and Engineering Artifact](https://github.com/sdmnh1/sdmnh1.github.io/tree/main/CS%20499%20Software%20Design%20and%20Engineering)
 
-View the artifact narrative: [Software Design and Engineering Narrative](https://github.com/sdmnh1/sdmnh1.github.io/blob/main/Narratives/CS%20499%203-2%20Milestone%20Two.docx)
+View the artifact narrative: [Software Design and Engineering Narrative](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fraw.githubusercontent.com%2Fsdmnh1%2Fsdmnh1.github.io%2Fmain%2FNarratives%2FCS%2520499%25203-2%2520Milestone%2520Two.docx&wdOrigin=BROWSELINK)
 
 <div style="text-align: right;">
     <a href="#">

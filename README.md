@@ -32,6 +32,7 @@ The enhancements made to this application made it fully functional. The structur
 expose potential vulnerabilities, mitigate design flaws, and ensure privacy and enhanced security of data and resources.
 
 View the artifact enhancement: [Software Design and Engineering Artifact](https://github.com/sdmnh1/sdmnh1.github.io/tree/main/CS%20499%20Software%20Design%20and%20Engineering)
+
 View the artifact narrative: [Software Design and Engineering Narrative](https://github.com/sdmnh1/sdmnh1.github.io/blob/main/Narratives/CS%20499%203-2%20Milestone%20Two.docx)
 
 <div style="text-align: right;">

@@ -2,7 +2,7 @@
 
 
 ## **Code Review**
-My review contains includes my analysis of all three artifacts, where I examine the existing application functionality, target areas for improvement, and provide a plan to enhance each artifact. 
+My review contains includes my analysis of all three artifacts, where I examine the existing application functionality, target areas for improvement, and provide a plan to enhance each artifact. Code review is an examination of the project’s source code, also known as a peer review. My approach involved a thorough evaluation of the code to find errors or opportunities for improvement. A code review is a necessary part of the software best practices because finding errors early in the software development lifecycle process saves time, reduces project costs, and promotes team interaction in a collaborative environment. Reviewing the three selected artifacts helped me apply strategies for building collaborative environments that enable diverse audiences to support organizational decision making in the field of computer science. 
 
 [Code Review](https://youtu.be/6cdXHpRNkXQ)
 

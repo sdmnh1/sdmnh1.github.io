@@ -31,8 +31,8 @@ The initial main loop contained a while (1) clause which implicitly converts to 
 The enhancements made to this application made it fully functional. The structure and design of the application was improved by implementing additional functions and by implementing standard coding principles. The engineering of the application was improved by adding validation, which makes the application work properly, and increases security. This aligns with course outcomes which demonstrate an ability to use well-founded and innovative techniques skills, and tools in computing practices for the purposes of implementing computer solutions that deliver value and accomplish industry specific goals. It also aligns with developing a security mindset that anticipates adversarial exploits in software architecture and designs to
 expose potential vulnerabilities, mitigate design flaws, and ensure privacy and enhanced security of data and resources.
 
-View the complete narrative: [Software Design and Engineering](https://github.com/sdmnh1/sdmnh1.github.io/tree/main/CS%20499%20Software%20Design%20and%20Engineering)
-Artifact Link: 
+View the artifact enhancement: [Software Design and Engineering](https://github.com/sdmnh1/sdmnh1.github.io/tree/main/CS%20499%20Software%20Design%20and%20Engineering)
+View the artifact narrative: 
 
 <div style="text-align: right;">
     <a href="#">

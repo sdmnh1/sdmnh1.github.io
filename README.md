@@ -1,4 +1,6 @@
- 
+ # **Code Review**
+
+[Code Review](https://youtu.be/6cdXHpRNkXQ)
 
 # **Enhancement One: Software Engineering and Development**
   The artifact I chose to enhance for Software Development and Engineering category is a banking application. The application is a calculator that generates an investment 
@@ -22,9 +24,6 @@
     </a>
 </div>
 
-# **Code Review**
-
-[Code Review](https://youtu.be/6cdXHpRNkXQ)
 
 ## Artifact Enhancement Links:
 

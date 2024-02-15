@@ -21,6 +21,7 @@ The include libraries were adjusted from <stdio.h> to <iostream> ensuring access
 
 The program has been refactored to include error checking of user input. Ensuring that only valid data is entered into the application allows the user to operate the program properly. By implementing input validation this enhances the software design of the application and mitigates design flaws by increasing security. Incorrect input prompts the user to re-enter the appropriate data and allows the application to continue with its process. The previous iteration of this application crashed or miscalculated incorrectly entered data due to the lack of input validation.
 
+Figure #1 Input Validation
 <center>
   <img src="assets/Software1.png" height=400 width=400>
 </center>

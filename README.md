@@ -31,6 +31,9 @@ The initial main loop contained a while (1) clause which implicitly converts to 
 The enhancements made to this application made it fully functional. The structure and design of the application was improved by implementing additional functions and by implementing standard coding principles. The engineering of the application was improved by adding validation, which makes the application work properly, and increases security. This aligns with course outcomes which demonstrate an ability to use well-founded and innovative techniques skills, and tools in computing practices for the purposes of implementing computer solutions that deliver value and accomplish industry specific goals. It also aligns with developing a security mindset that anticipates adversarial exploits in software architecture and designs to
 expose potential vulnerabilities, mitigate design flaws, and ensure privacy and enhanced security of data and resources.
 
+View the complete narrative: 
+Artifact Link: 
+
 <div style="text-align: right;">
     <a href="#">
         <button style="font-size: 10px; font-weight: 500; background: #909090; color: #ffffff; border-radius: 50px; border-style: solid; border-color: #909090; padding: 5px 8px;">Back to Top &#8593;</button>

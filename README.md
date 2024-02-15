@@ -36,6 +36,7 @@ Figure #1 Input Validation
 The initial main loop contained a while (1) clause which implicitly converts to true. To avoid any type conversions, I changed it to true. Refactoring the application to use a switch statement instead of a continuous loop, ensures the project can compile efficiently and improves the code clarity. The enhancements made to this application made it fully functional. The structure and design of the application was improved by implementing additional functions and by implementing standard coding principles. The engineering of the application was improved by adding validation, which makes the application work properly, and increases security. This aligns with course outcomes which demonstrate an ability to use well-founded and innovative techniques skills, and tools in computing practices for the purposes of implementing computer solutions that deliver value and accomplish industry specific goals. It also aligns with developing a security mindset that anticipates adversarial exploits in software architecture and designs to
 expose potential vulnerabilities, mitigate design flaws, and ensure privacy and enhanced security of data and resources.
 </p>
+
 View the artifact enhancement: [Software Design and Engineering Artifact](https://github.com/sdmnh1/sdmnh1.github.io/tree/main/CS%20499%20Software%20Design%20and%20Engineering)
 
 View the artifact narrative: [Software Design and Engineering Narrative](https://github.com/sdmnh1/sdmnh1.github.io/blob/main/Narratives/CS%20499%203-2%20Milestone%20Two.docx)

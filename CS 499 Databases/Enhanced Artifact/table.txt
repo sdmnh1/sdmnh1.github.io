@@ -1,0 +1,21 @@
+# CS 499 Computer Science Capstone - Enchancement Three - Databases
+# =============================================================================
+#  Date: February 10, 2024
+#  Created By : Maria Herring   Email: maria.herring@shnu.edu
+#  File Name : Enhancement Three
+#  This project is based off of coursework completed in 
+#  SNHU DAD 220 - Introduction into Structure Databases
+#
+#  Description : This text file contains SQL statement to create the Records table
+# =============================================================================
+
+CREATE TABLE Records (
+    `ID` INT AUTO_INCREMENT PRIMARY KEY,
+    `Vehicle ID` VARCHAR(50),
+    `State` VARCHAR(50),
+    `Repair` VARCHAR(100),
+    `Reason` VARCHAR(100),
+    `YEAR` INT,
+    `Make` VARCHAR(50),
+    `Body Type` VARCHAR(100)
+);

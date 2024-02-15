@@ -1,6 +1,8 @@
 
 
+
 ## **Code Review**
+My review contains includes my analysis of all three artifacts, where I examine the existing application functionality, target areas for improvement, and provide a plan to enhance each artifact. 
 
 [Code Review](https://youtu.be/6cdXHpRNkXQ)
 

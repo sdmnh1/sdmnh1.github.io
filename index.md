@@ -1,8 +1,4 @@
-<center>
-  <img src="profile.jpg" height=200 width=200>
-</center>
-
-  
+ 
 
 # **Enhancement One: Software Engineering and Development**
   The artifact I chose to enhance for Software Development and Engineering category is a banking application. The application is a calculator that generates an investment 

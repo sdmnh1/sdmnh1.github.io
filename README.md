@@ -23,7 +23,7 @@ The program has been refactored to include error checking of user input. Ensurin
 
 Figure #1 Input Validation
 <center>
-  <img src="assets/Software1.png" height=400 width=400>
+  <img src="assets/Software1.png" height=500 width=400>
 </center>
 
 The initial main loop contained a while (1) clause which implicitly converts to true. To avoid any type conversions, I changed it to true. Refactoring the application to use a switch statement instead of a continuous loop, ensures the project can compile efficiently and improves the code clarity.

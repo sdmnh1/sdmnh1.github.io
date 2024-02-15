@@ -6,6 +6,12 @@ My review contains includes my analysis of all three artifacts, where I examine 
 
 [Code Review](https://youtu.be/6cdXHpRNkXQ)
 
+<div style="text-align: right;">
+    <a href="#">
+        <button style="font-size: 10px; font-weight: 500; background: #909090; color: #ffffff; border-radius: 50px; border-style: solid; border-color: #909090; padding: 5px 8px;">Back to Top &#8593;</button>
+    </a>
+</div>
+
 ## **Enhancement One: Software Engineering and Development**
   The artifact I chose to enhance for Software Development and Engineering category is a banking application. The application is a calculator that generates an investment 
   report based on user input. The artifact was developed in the C++ programming language. Visual Studio Integrated Development Environment (IDE) was the tool used to develop 

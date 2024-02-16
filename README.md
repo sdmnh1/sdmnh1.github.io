@@ -67,7 +67,7 @@ The enhancements made to this application allowed the objects to render correctl
 
 View the artifact enhancement: [Algorithms and Data Structure Artifact](https://github.com/sdmnh1/sdmnh1.github.io/tree/main/CS%20499%20Algorithms%20and%20Data%20Structure)
 
-View the narrative: [Algorithms and Data Structure Narrative](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fraw.githubusercontent.com%2Fsdmnh1%2Fsdmnh1.github.io%2Fmain%2FNarratives%2FCS%2520499%25204-2%2520Milestone%2520Three%2520.docx&wdOrigin=BROWSELINK)
+View the artifact narrative: [Algorithms and Data Structure Narrative](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fraw.githubusercontent.com%2Fsdmnh1%2Fsdmnh1.github.io%2Fmain%2FNarratives%2FCS%2520499%25204-2%2520Milestone%2520Three%2520.docx&wdOrigin=BROWSELINK)
 
 
 

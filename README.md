@@ -86,7 +86,7 @@ Developing a user interface that allows a user to manipulate the data imported i
 The program was developed using error checking engineering practices that allow the application to fail gracefully, exit without crashing, and help to make the program more secure. To help prevent SQL injection, the application was developed using practices such as input filtering and query parameterization. Adherence to secure coding best practices was used to develop the project, which will help ensure that the application functions properly, is secure, and maintainable. These skills demonstrate and align with course outcomes that develop a security mindset that anticipates adversarial exploits in software architecture and designs to expose potential vulnerabilities, mitigate design flaws, and ensure privacy and enhanced security of data and resources.
 </p>
 <center>
-  <img src="assets/Records.png" height=500 width=900>
+  <img src="assets/Records.png" height=400 width=800>
 </center>
 <p style="text-indent: 50px;">
 While enhancing this artifact, I re-familiarized myself with the syntax of the SQL programming language. I learned how to use the MySQL Workbench development tool while creating this artifact as. Previously, I used the command line for database projects. I had previously used the Tkinter graphical user interface (GUI) toolkit to build smaller projects, but I expanded my knowledge during the development of this artifact. Implementing the widget features of Tkinter, such as the tree view, allowed the data to be displayed in a table, which is a visually appealing way to interact with the data.

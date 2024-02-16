@@ -66,4 +66,11 @@ The enhancements made to this application allowed the objects to render correctl
 </p>
 
 
+<div style="text-align: right;">
+    <a href="#">
+        <button style="font-size: 10px; font-weight: 500; background: #909090; color: #ffffff; border-radius: 50px; border-style: solid; border-color: #909090; padding: 5px 8px;">Back to Top &#8593;</button>
+    </a>
+</div>
+
+
 

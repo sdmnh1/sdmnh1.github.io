@@ -46,7 +46,7 @@ View the artifact narrative: [Software Design and Engineering Narrative](https:/
     </a>
 </div>
 
-## **Enhancement Two: Algoritms and Data Structure**
+## **Enhancement Two: Algorithms and Data Structure**
 <p style="text-indent: 50px;">
 The artifact I chose to enhance in the Algorithms and Data Structures category is an OpenGL 3D project. OpenGL is an application programming interface (API) that provides a large set of functions for rendering graphics. The artifact was developed in the C++ programming language. Visual Studio Integrated Development Environment (IDE) was the tool used to develop the application. The scene was originally developed as a final project in CS-330 (Computer Graphics and Visualization), which was completed in Winter 2023.
 </p>
@@ -64,6 +64,11 @@ Previously, all the programming logic for the program was contained in main.cpp.
 <p style="text-indent: 50px;">
 The enhancements made to this application allowed the objects to render correctly in configuration and scale. The structure and design of the application was improved by implementing additional classes and header files and by implementing standard coding principles. The algorithmic logic of the application was improved by applying functions to compute data, allowing the application to render properly. This aligns with course outcomes that demonstrate the ability to use well-founded and innovative techniques skills, and tools in computing practices for the purposes of implementing computer solutions that deliver value and accomplish industry specific goals. It also aligns with outcomes which design and evaluate computing solutions that solve a given problem using algorithmic principles and computer science practices and standards appropriate to its solution, while managing the trade-offs involved in design choices.
 </p>
+
+View the artifact enhancement: [Algorithms and Data Structure Artifact](https://github.com/sdmnh1/sdmnh1.github.io/tree/main/CS%20499%20Algorithms%20and%20Data%20Structure)
+
+View the narrative: [Algorithms and Data Structure Narrative](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fraw.githubusercontent.com%2Fsdmnh1%2Fsdmnh1.github.io%2Fmain%2FNarratives%2FCS%2520499%25204-2%2520Milestone%2520Three%2520.docx&wdOrigin=BROWSELINK)
+
 
 
 <div style="text-align: right;">

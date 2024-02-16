@@ -28,7 +28,11 @@ Figure #1 Input Validation
   <img src="assets/Software1.png" height=600 width=500>
 </center>
 <p style="text-indent: 50px;">
-
+The enhancements made to this application made it fully functional. The structure and design of the application was improved by implementing additional functions and by implementing standard coding principles. The engineering of the application was improved by adding validation, which makes the application work properly, and increases security. This aligns with course outcomes which demonstrate an ability to use well-founded and innovative techniques skills, and tools in computing practices for the purposes of implementing computer solutions that deliver value and accomplish industry specific goals. It also aligns with developing a security mindset that anticipates adversarial exploits in software architecture and designs to expose potential vulnerabilities, mitigate design flaws, and ensure privacy and enhanced security of data and resources.
+</p>
+<p style="text-indent: 50px;">
+I chose a project from the beginning of my program to measure my progress. It had been some time since I had used the C++ programming language, so I needed to reacquaint myself with its structure and syntax. I knew some of the strategies I wanted to implement in this program, such as input validation, but I needed to review some of these processes to properly refactor the code. Prior to this course, I was provided with programming tasks and parameters on how to meet these requirements. Refactoring code from previously submitted coursework presented me with some unfamiliarity. Through this enhancement, I increased my comfort level with the C++ programming language and increased my ability to properly refactor an application.
+</p>
 
 View the artifact enhancement: [Software Design and Engineering Artifact](https://github.com/sdmnh1/sdmnh1.github.io/tree/main/CS%20499%20Software%20Design%20and%20Engineering)
 

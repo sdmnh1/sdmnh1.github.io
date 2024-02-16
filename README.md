@@ -62,10 +62,7 @@ Previously, all the programming logic for the program was contained in main.cpp.
 
 
 <p style="text-indent: 50px;">
-The enhancements made to this application allowed the objects to render correctly in configuration and scale. The structure and design of the application was improved by implementing additional classes and header files and by implementing standard coding principles. The algorithmic logic of the application was improved by applying functions to compute data, allowing the application to render properly.
-</p>
-<p style="text-indent: 50px;">
-This aligns with course outcomes that demonstrate the ability to use well-founded and innovative techniques skills, and tools in computing practices for the purposes of implementing computer solutions that deliver value and accomplish industry specific goals. It also aligns with outcomes which design and evaluate computing solutions that solve a given problem using algorithmic principles and computer science practices and standards appropriate to its solution, while managing the trade-offs involved in design choices.
+The enhancements made to this application allowed the objects to render correctly in configuration and scale. The structure and design of the application was improved by implementing additional classes and header files and by implementing standard coding principles. The algorithmic logic of the application was improved by applying functions to compute data, allowing the application to render properly. This aligns with course outcomes that demonstrate the ability to use well-founded and innovative techniques skills, and tools in computing practices for the purposes of implementing computer solutions that deliver value and accomplish industry specific goals. It also aligns with outcomes which design and evaluate computing solutions that solve a given problem using algorithmic principles and computer science practices and standards appropriate to its solution, while managing the trade-offs involved in design choices.
 </p>
 
 

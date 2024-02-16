@@ -21,7 +21,9 @@ The artifact I chose to enhance for Software Development and Engineering categor
 <p style="text-indent: 50px;">
 This artifact was developed at the beginning of my computer science program. I selected this artifact for enhancement to demonstrate my greater understanding of software development and engineering. Specifically, the improved structure, programming logic, and design will demonstrate my understanding of the C++ programming language. Adherence to engineering and programming practices by adding input validation and default deny clauses will help to ensure that the application operates properly and is more secure.
 </p>
-
+<p style="text-indent: 50px;">
+The program has been refactored to include error checking of user input. Ensuring that only valid data is entered into the application allows the user to operate the program properly. By implementing input validation this enhances the software design of the application and mitigates design flaws by increasing security. Incorrect input prompts the user to re-enter the appropriate data and allows the application to continue with its process. The previous iteration of this application crashed or miscalculated incorrectly entered data due to the lack of input validation.
+</p>
 
 Figure #1 Input Validation
 <center>

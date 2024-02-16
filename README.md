@@ -94,7 +94,7 @@ While enhancing this artifact, I re-familiarized myself with the syntax of the S
 This artifact was developed using a file from my previous course, so it was a fun challenge to create the layout to incorporate all the aspects of the program needed to make it function. Installing the import Python package (pymysql) was surprisingly tricky, but once I used the proper connection method, it functioned properly. Through this enhancement, I increased my comfort level with the Python programming language, with MySQL, and I increased my ability to properly develop a database application.
 </p>
 
-View the artifact enhancement: 
+View the artifact enhancement: [Databases Artifact](https://github.com/sdmnh1/sdmnh1.github.io/tree/main/CS%20499%20Databases)
 
 View the artifact narrative: [Databases Narrative](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fraw.githubusercontent.com%2Fsdmnh1%2Fsdmnh1.github.io%2Fmain%2FNarratives%2FCS%2520499%25205-2%2520Milestone%2520Four.docx&wdOrigin=BROWSELINK)
 

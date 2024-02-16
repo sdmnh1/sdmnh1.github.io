@@ -69,13 +69,37 @@ View the artifact enhancement: [Algorithms and Data Structure Artifact](https://
 
 View the artifact narrative: [Algorithms and Data Structure Narrative](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fraw.githubusercontent.com%2Fsdmnh1%2Fsdmnh1.github.io%2Fmain%2FNarratives%2FCS%2520499%25204-2%2520Milestone%2520Three%2520.docx&wdOrigin=BROWSELINK)
 
-
-
 <div style="text-align: right;">
     <a href="#">
         <button style="font-size: 10px; font-weight: 500; background: #909090; color: #ffffff; border-radius: 50px; border-style: solid; border-color: #909090; padding: 5px 8px;">Back to Top &#8593;</button>
     </a>
 </div>
 
+## **Enhancement Three: Databases**
+<p style="text-indent: 50px;">
+The artifact I chose to enhance in the Databases category is a from DAD-220 (Introduction into Structure Databases), which was completed in the fall of 2022. The artifact was originally used in a virtual lab, using a Linux platform. The artifact is a CSV data file used in the course to write queries. The file contains vehicle, damage, and repair statistics for a fleet of vehicles. I selected this artifact so that I could use the information contained in the file to develop an application with create, read, update, and delete functionality to manage the data.
+</p>
+<p style="text-indent: 50px;">
+Developing a user interface that allows a user to manipulate the data imported into MySQL demonstrates my understanding of databases. The project was developed in the Python programming language, and MySQL was used to store and manage the database. The MySQL Workbench tool was used to create the database and table. Visual Studio Code was used as the code editor for this project. The use and integration of these tools demonstrated my ability to develop a secure, fully functional database application.
+</p>
+<p style="text-indent: 50px;">
+The program was developed using error checking engineering practices that allow the application to fail gracefully, exit without crashing, and help to make the program more secure. To help prevent SQL injection, the application was developed using practices such as input filtering and query parameterization. Adherence to secure coding best practices was used to develop the project, which will help ensure that the application functions properly, is secure, and maintainable. These skills demonstrate and align with course outcomes that develop a security mindset that anticipates adversarial exploits in software architecture and designs to expose potential vulnerabilities, mitigate design flaws, and ensure privacy and enhanced security of data and resources.
+</p>
 
 
+<p style="text-indent: 50px;">
+While enhancing this artifact, I re-familiarized myself with the syntax of the SQL programming language. I learned how to use the MySQL Workbench development tool while creating this artifact as. Previously, I used the command line for database projects. I had previously used the Tkinter graphical user interface (GUI) toolkit to build smaller projects, but I expanded my knowledge during the development of this artifact. Implementing the widget features of Tkinter, such as the tree view, allowed the data to be displayed in a table, which is a visually appealing way to interact with the data.
+</p>
+<p style="text-indent: 50px;">
+This artifact was developed using a file from my previous course, so it was a fun challenge to create the layout to incorporate all the aspects of the program needed to make it function. Installing the import Python package (pymysql) was surprisingly tricky, but once I used the proper connection method, it functioned properly. Through this enhancement, I increased my comfort level with the Python programming language, with MySQL, and I increased my ability to properly develop a database application.
+</p>
+
+View the artifact enhancement: 
+
+View the artifact narrative: [Databases Narrative](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fraw.githubusercontent.com%2Fsdmnh1%2Fsdmnh1.github.io%2Fmain%2FNarratives%2FCS%2520499%25205-2%2520Milestone%2520Four.docx&wdOrigin=BROWSELINK)
+
+<div style="text-align: right;">
+    <a href="#">
+        <button style="font-size: 10px; font-weight: 500; background: #909090; color: #ffffff; border-radius: 50px; border-style: solid; border-color: #909090; padding: 5px 8px;">Back to Top &#8593;</button>
+    </a>
+</div>

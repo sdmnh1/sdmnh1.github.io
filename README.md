@@ -24,8 +24,6 @@ This artifact was developed at the beginning of my computer science program. I s
 <p style="text-indent: 50px;">
 The program has been refactored to include error checking of user input. Ensuring that only valid data is entered into the application allows the user to operate the program properly. By implementing input validation this enhances the software design of the application and mitigates design flaws by increasing security. Incorrect input prompts the user to re-enter the appropriate data and allows the application to continue with its process. The previous iteration of this application crashed or miscalculated incorrectly entered data due to the lack of input validation.
 </p>
-
-Figure #1 Input Validation
 <center>
   <img src="assets/Software1.png" height=600 width=500>
 </center>
@@ -59,7 +57,10 @@ Initially, the development of this artifact presented many challenges. As I comp
 <p style="text-indent: 50px;">
 Previously, all the programming logic for the program was contained in main.cpp. The shader functions were refactored, and a separate shader class was created, and header files were created for the project to provide more segmentation and readability. The objects scale, rotation, and translation were corrected to reflect the appropriate values. I removed the use of the standard namespace from the application, opting to place std:: in front of functions from the standard library. While this may not be critical in this project, I used best practices to make it clear which namespace a function belongs to, to avoid collisions in projects that use multiple namespaces. An interleaved structure format was used to process the vertex data. The vertices, normals, and texture coordinate attributes were processed in a single buffer object instead of using multiple buffers. In this format, the graphics processing unit (GPU) processes this data from one location, improving performance, but also potentially using more memory.
 </p>
-
+<center>
+  <img src="assets/algo1.png" height=600 width=500>
+</center>
+<p style="text-indent: 50px;">
 
 <p style="text-indent: 50px;">
 The enhancements made to this application allowed the objects to render correctly in configuration and scale. The structure and design of the application was improved by implementing additional classes and header files and by implementing standard coding principles. The algorithmic logic of the application was improved by applying functions to compute data, allowing the application to render properly. This aligns with course outcomes that demonstrate the ability to use well-founded and innovative techniques skills, and tools in computing practices for the purposes of implementing computer solutions that deliver value and accomplish industry specific goals. It also aligns with outcomes which design and evaluate computing solutions that solve a given problem using algorithmic principles and computer science practices and standards appropriate to its solution, while managing the trade-offs involved in design choices.

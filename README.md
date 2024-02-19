@@ -58,7 +58,7 @@ Initially, the development of this artifact presented many challenges. As I comp
 Previously, all the programming logic for the program was contained in main.cpp. The shader functions were refactored, and a separate shader class was created, and header files were created for the project to provide more segmentation and readability. The objects scale, rotation, and translation were corrected to reflect the appropriate values. I removed the use of the standard namespace from the application, opting to place std:: in front of functions from the standard library. While this may not be critical in this project, I used best practices to make it clear which namespace a function belongs to, to avoid collisions in projects that use multiple namespaces. An interleaved structure format was used to process the vertex data. The vertices, normals, and texture coordinate attributes were processed in a single buffer object instead of using multiple buffers. In this format, the graphics processing unit (GPU) processes this data from one location, improving performance, but also potentially using more memory.
 </p>
 <center>
-  <img src="assets/algo1.png" height=300 width=600>
+  <img src="assets/algo1.png" height=400 width=800>
 </center>
 <p style="text-indent: 50px;">
 

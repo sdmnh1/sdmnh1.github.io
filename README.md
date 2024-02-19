@@ -57,7 +57,7 @@ Previously, all the programming logic for the program was contained in main.cpp.
 </p>
 
 <center>
-  <img src="assets/algo1.png" height=400 width=800>
+  <img src="assets/algo1.png" height=350 width=700>
 </center>
 
 <p style="text-indent: 50px;">
@@ -86,7 +86,7 @@ The program was developed using error checking engineering practices that allow 
 </p>
 
 <center>
-  <img src="assets/Records.png" height=400 width=800>
+  <img src="assets/Records.png" height=350 width=700>
 </center>
 
 <p style="text-indent: 50px;">

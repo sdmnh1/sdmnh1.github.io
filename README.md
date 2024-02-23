@@ -30,10 +30,6 @@ I have improved my secure coding mindset, organization, and attention to detail 
 </div>
 
 ## **Course Outcomes**
-
-<details>
-<summary>Course Outcomes Reached</summary>
-    
 <p style="text-indent: 50px;">
 Course Outcome #1: Employ strategies for building collaborative environments that enable diverse audiences to support organizational decision making in the field of computer science. I reached this outcome by creating a code review that detailed the existing functionality of my original artifacts, targeted areas for improvement, and detailed a plan to enhance the artifacts. Quality assurance of a code base is critical in projects. I demonstrated the ability to perform a complete code review using a checklist that covered all the different facets of the artifact. 
 </p>
@@ -68,7 +64,11 @@ In enhancement one (Software Engineering and Design) the program was refactored 
 In enhancement three (Databases), the program was developed using error checking engineering practices that allow the application to fail gracefully, exit without crashing, and help to make the program more secure. To help prevent SQL injection, the application was developed using practices such as input filtering and query parameterization. Adherence to secure coding best practices was used to develop all my enhancement projects, which will help ensure that the applications function properly, are secure, and are maintainable.
 </p>
 
-</details>
+<div style="text-align: right;">
+    <a href="#">
+        <button style="font-size: 10px; font-weight: 500; background: #909090; color: #ffffff; border-radius: 50px; border-style: solid; border-color: #909090; padding: 5px 8px;">Back to Top &#8593;</button>
+    </a>
+</div>
 
 ## **Code Review**
 <p style="text-indent: 50px;">

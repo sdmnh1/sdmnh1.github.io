@@ -68,6 +68,12 @@ In enhancement one (Software Engineering and Design) the program was refactored 
 In enhancement three (Databases), the program was developed using error checking engineering practices that allow the application to fail gracefully, exit without crashing, and help to make the program more secure. To help prevent SQL injection, the application was developed using practices such as input filtering and query parameterization. Adherence to secure coding best practices was used to develop all my enhancement projects, which will help ensure that the applications function properly, are secure, and are maintainable.
 </p>
 
+<div style="text-align: right;">
+    <a href="#">
+        <button style="font-size: 10px; font-weight: 500; background: #909090; color: #ffffff; border-radius: 50px; border-style: solid; border-color: #909090; padding: 5px 8px;">Back to Top &#8593;</button>
+    </a>
+</div>
+
 </details>
 
 ## **Code Review**

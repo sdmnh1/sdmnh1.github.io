@@ -23,6 +23,12 @@ In DAD-220 (Introduction to Structured Database Environments), I learned how to 
 I have improved my secure coding mindset, organization, and attention to detail as a software developer. Applying best practices and standards helped me produce programs that are properly structured, easily understood, and secure. These skills are critical to developing usable programs that are free of vulnerabilities that could be exploited. In addition, CS-320 (Software Testing, Automation, and Quality Assurance) taught me how to integrate software engineering testing protocols and strategies that are fundamental to developing quality programs. The practical application of testing ensures the development of secure quality code by diagnosing problems early in the development process. In CS-305 (Software Security), I learned how to develop secure code that complies with security testing protocols and how to apply encryption technologies necessary for secure communication. I learned skills essential to implementing hash functions and encryption to reduce vulnerabilities and increase the security of web applications. 
 </p>
 
+<div style="text-align: right;">
+    <a href="#">
+        <button style="font-size: 10px; font-weight: 500; background: #909090; color: #ffffff; border-radius: 50px; border-style: solid; border-color: #909090; padding: 5px 8px;">Back to Top &#8593;</button>
+    </a>
+</div>
+
 ## **Code Review**
 <p style="text-indent: 50px;">
 Code review is an examination of the project’s source code, also known as a peer review. My review contains includes my analysis of all three artifacts, where I examine the existing application functionality, target areas for improvement, and provide a plan to enhance each artifact. A code review is a necessary part of the software best practices because finding errors early in the software development lifecycle process saves time, reduces project costs, and promotes team interaction in a collaborative environment. Reviewing the three selected artifacts helped me apply strategies for building collaborative environments that enable diverse audiences to support organizational decision making in the field of computer science. 
